@@ -1,0 +1,65 @@
+.main {
+  background-image:url("./images/Sunflower_disk.jpg"); /* By StinkBreath - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=42466401*/
+    /* Full height */
+  height: 100%;
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+ 
+}
+.home_page {
+  background-color: white;
+  color: whitesmoke;
+}
+.manu {
+  padding: 3%;
+  background-color: black;
+}
+.discription {
+  background-color: rgb(208, 231, 240);
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 10%;
+}
+
+.sn_img {
+  width:100%;
+  height: 30em;
+}
+.small_img {
+  text-align: center;
+  width: 30%;
+  margin-left: 35%;
+  height: 30em;
+ 
+}
+.small_imgBackground{
+  background-color: black;
+}
+.pageImg {
+  width: 100%;
+  height: 30em;
+}
+.row_spaces {
+  margin-bottom: 5%;
+  color: whitesmoke;
+}
+
+.text_center {
+  text-align: center;
+  left: 50%;
+
+}
+a{
+  text-decoration: none;
+}
+
+/*
+
+ Are you looking for ways to enhance your inner strenght and peace during hard times?
+
+*/
